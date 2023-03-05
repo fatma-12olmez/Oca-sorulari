@@ -1,4 +1,4 @@
-package oca.soru94;
+package oca.soru93.soru94;
 
 public class Person {
     String name;
